@@ -1,0 +1,25 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE (Integrated Development Environment) Files (e.g., VS Code, IntelliJ)
+.vscode/
+.idea/
+
+# Node.js (if you ever use it for web development)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if you ever add Python to this project)
+__pycache__/
+*.pyc
+*.log
+.venv/
+env/
+venv/
+
+# Compiled output (if you ever compile code)
+/dist/
+/build/
